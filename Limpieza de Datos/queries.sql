@@ -49,7 +49,7 @@ AS
     SELECT
 		*
 	FROM
-		domcilios_fixed
+		domicilios_fixed
 	);
     
 -- Separando los elementos de la direccion en distintas columnas
